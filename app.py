@@ -5,7 +5,7 @@ import numpy as np
 # 1. Page Config
 st.set_page_config(page_title="AI Health Premium", page_icon="⚡", layout="wide")
 
-# 2. Custom CSS (Wahi Ultra Dark Theme jo aapko pasand hai)
+# 2. Custom CSS
 st.markdown("""
     <style>
     .stApp {
